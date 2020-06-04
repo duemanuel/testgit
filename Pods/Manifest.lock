@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.8.2)
+  - iOSSnapshotTestCase (6.2.0):
+    - iOSSnapshotTestCase/SwiftSupport (= 6.2.0)
+  - iOSSnapshotTestCase/Core (6.2.0)
+  - iOSSnapshotTestCase/SwiftSupport (6.2.0):
+    - iOSSnapshotTestCase/Core
+  - Kingfisher (5.14.0):
+    - Kingfisher/Core (= 5.14.0)
+  - Kingfisher/Core (5.14.0)
+  - Nimble (8.0.9)
+  - Quick (2.2.0)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.2)
+  - iOSSnapshotTestCase
+  - Kingfisher (~> 5.0)
+  - Nimble
+  - Quick
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iOSSnapshotTestCase
+    - Kingfisher
+    - Nimble
+    - Quick
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  iOSSnapshotTestCase: 9ab44cb5aa62b84d31847f40680112e15ec579a6
+  Kingfisher: 7b64389a43139c903ec434788344c288217c792d
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: 4dfdf600f43d5ed9427504255b9ee22668aaf1e5
+
+COCOAPODS: 1.9.1
